@@ -1,1 +1,3 @@
-# sublime-sync
+# Sublime Text 3 Syncing
+========================
+
